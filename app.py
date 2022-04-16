@@ -32,7 +32,7 @@ def play_game():
                 print("\nInvalid choice. Follow directions.")
                 print("GAME OVER.")
     else:
-        print("\nYou went right... right into a hole that you mistakingly fell into, that is. Better luck next time.")
+        print("\nYou went right... right into a hole that is. Better luck next time.")
         print("Game over.")
         is_game_over = True
 
